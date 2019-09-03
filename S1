@@ -1,13 +1,13 @@
 mgmt_ip: 10.0.0.1
 vlans:
-yellow:
-id:10
-green:
+pink:
+id:50
+blue:
 id: 20, 30
 blue:
 id: 10, 40
 ports :
-1: [ 10 ]
+1: [ 50 ]
 2: [ 20, 30 ]
-3: [ 10, 40
-authenticating server ]
+3: [ 10, 40]
+authenticating server 
