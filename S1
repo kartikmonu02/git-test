@@ -1,7 +1,11 @@
 mgmt_ip: 10.0.0.1
 vlans:
 yellow:
-id:1
+id:10
+green:
+id: 20, 30
+blue:
+id: 10, 40
 ports :
 1: [ 10 ]
 2: [ 20, 30 ]
